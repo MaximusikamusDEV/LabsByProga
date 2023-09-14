@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\HP\Desktop\Прога\Сдать\PtBN2.4\Source.cpp(12,6): warning C4101: ch4: неиспользованная локальная переменная
+C:\Users\HP\Desktop\Прога\Сдать\PtBN2.4\Source.cpp(8,12): warning C4101: j: неиспользованная локальная переменная
+  PtBN2.4.vcxproj -> C:\Users\HP\Desktop\Прога\Сдать\PtBN2.4\Debug\PtBN2.4.exe

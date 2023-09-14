@@ -1,0 +1,4 @@
+Text after checking: I hate ******
+Total count of words in your text: 3
+Count of Bad words in your text: 1
+Percent of Bad words in your text: 33.3333%
